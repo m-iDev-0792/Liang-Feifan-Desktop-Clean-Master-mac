@@ -1,0 +1,320 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		B7401A311DFEBF4200585650 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B7401A301DFEBF4200585650 /* AppDelegate.m */; };
+		B7401A341DFEBF4200585650 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B7401A331DFEBF4200585650 /* main.m */; };
+		B7401A361DFEBF4200585650 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = B7401A351DFEBF4200585650 /* GameScene.sks */; };
+		B7401A381DFEBF4200585650 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = B7401A371DFEBF4200585650 /* Actions.sks */; };
+		B7401A3B1DFEBF4200585650 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = B7401A3A1DFEBF4200585650 /* GameScene.m */; };
+		B7401A3E1DFEBF4200585650 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7401A3D1DFEBF4200585650 /* ViewController.m */; };
+		B7401A401DFEBF4200585650 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7401A3F1DFEBF4200585650 /* Assets.xcassets */; };
+		B7401A431DFEBF4200585650 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7401A411DFEBF4200585650 /* Main.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		B7401A2C1DFEBF4200585650 /* 非凡桌面清理大师.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "非凡桌面清理大师.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B7401A2F1DFEBF4200585650 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		B7401A301DFEBF4200585650 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		B7401A331DFEBF4200585650 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B7401A351DFEBF4200585650 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
+		B7401A371DFEBF4200585650 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
+		B7401A391DFEBF4200585650 /* GameScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
+		B7401A3A1DFEBF4200585650 /* GameScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
+		B7401A3C1DFEBF4200585650 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		B7401A3D1DFEBF4200585650 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		B7401A3F1DFEBF4200585650 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		B7401A421DFEBF4200585650 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		B7401A441DFEBF4200585650 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		B7401A291DFEBF4200585650 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		B7401A231DFEBF4100585650 = {
+			isa = PBXGroup;
+			children = (
+				B7401A2E1DFEBF4200585650 /* 非凡桌面清理大师 */,
+				B7401A2D1DFEBF4200585650 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		B7401A2D1DFEBF4200585650 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B7401A2C1DFEBF4200585650 /* 非凡桌面清理大师.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B7401A2E1DFEBF4200585650 /* 非凡桌面清理大师 */ = {
+			isa = PBXGroup;
+			children = (
+				B7401A2F1DFEBF4200585650 /* AppDelegate.h */,
+				B7401A301DFEBF4200585650 /* AppDelegate.m */,
+				B7401A351DFEBF4200585650 /* GameScene.sks */,
+				B7401A371DFEBF4200585650 /* Actions.sks */,
+				B7401A391DFEBF4200585650 /* GameScene.h */,
+				B7401A3A1DFEBF4200585650 /* GameScene.m */,
+				B7401A3C1DFEBF4200585650 /* ViewController.h */,
+				B7401A3D1DFEBF4200585650 /* ViewController.m */,
+				B7401A3F1DFEBF4200585650 /* Assets.xcassets */,
+				B7401A411DFEBF4200585650 /* Main.storyboard */,
+				B7401A441DFEBF4200585650 /* Info.plist */,
+				B7401A321DFEBF4200585650 /* Supporting Files */,
+			);
+			path = "非凡桌面清理大师";
+			sourceTree = "<group>";
+		};
+		B7401A321DFEBF4200585650 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				B7401A331DFEBF4200585650 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		B7401A2B1DFEBF4200585650 /* 非凡桌面清理大师 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B7401A471DFEBF4200585650 /* Build configuration list for PBXNativeTarget "非凡桌面清理大师" */;
+			buildPhases = (
+				B7401A281DFEBF4200585650 /* Sources */,
+				B7401A291DFEBF4200585650 /* Frameworks */,
+				B7401A2A1DFEBF4200585650 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "非凡桌面清理大师";
+			productName = "非凡桌面清理大师";
+			productReference = B7401A2C1DFEBF4200585650 /* 非凡桌面清理大师.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B7401A241DFEBF4200585650 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0810;
+				ORGANIZATIONNAME = "何振邦";
+				TargetAttributes = {
+					B7401A2B1DFEBF4200585650 = {
+						CreatedOnToolsVersion = 8.1;
+						DevelopmentTeam = 9DK9F8LE39;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = B7401A271DFEBF4200585650 /* Build configuration list for PBXProject "非凡桌面清理大师" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B7401A231DFEBF4100585650;
+			productRefGroup = B7401A2D1DFEBF4200585650 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				B7401A2B1DFEBF4200585650 /* 非凡桌面清理大师 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		B7401A2A1DFEBF4200585650 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B7401A361DFEBF4200585650 /* GameScene.sks in Resources */,
+				B7401A401DFEBF4200585650 /* Assets.xcassets in Resources */,
+				B7401A381DFEBF4200585650 /* Actions.sks in Resources */,
+				B7401A431DFEBF4200585650 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		B7401A281DFEBF4200585650 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B7401A341DFEBF4200585650 /* main.m in Sources */,
+				B7401A3B1DFEBF4200585650 /* GameScene.m in Sources */,
+				B7401A3E1DFEBF4200585650 /* ViewController.m in Sources */,
+				B7401A311DFEBF4200585650 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		B7401A411DFEBF4200585650 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				B7401A421DFEBF4200585650 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		B7401A451DFEBF4200585650 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		B7401A461DFEBF4200585650 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		B7401A481DFEBF4200585650 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 9DK9F8LE39;
+				INFOPLIST_FILE = "非凡桌面清理大师/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Huajige.Inc.--------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		B7401A491DFEBF4200585650 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEVELOPMENT_TEAM = 9DK9F8LE39;
+				INFOPLIST_FILE = "非凡桌面清理大师/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Huajige.Inc.--------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B7401A271DFEBF4200585650 /* Build configuration list for PBXProject "非凡桌面清理大师" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B7401A451DFEBF4200585650 /* Debug */,
+				B7401A461DFEBF4200585650 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		B7401A471DFEBF4200585650 /* Build configuration list for PBXNativeTarget "非凡桌面清理大师" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B7401A481DFEBF4200585650 /* Debug */,
+				B7401A491DFEBF4200585650 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B7401A241DFEBF4200585650 /* Project object */;
+}
