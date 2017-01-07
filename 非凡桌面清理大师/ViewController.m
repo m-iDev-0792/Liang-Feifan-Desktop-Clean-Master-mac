@@ -19,12 +19,10 @@
     
     // Set the scale mode to scale to fit the window
     scene.scaleMode = SKSceneScaleModeAspectFill;
-    
     // Present the scene
     [self.skView presentScene:scene];
-    
-    self.skView.showsFPS = YES;
-    self.skView.showsNodeCount = YES;
+    self.skView.showsFPS = NO;
+    self.skView.showsNodeCount = NO;
 }
 
 @end

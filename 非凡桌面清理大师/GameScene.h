@@ -7,7 +7,12 @@
 //
 
 #import <SpriteKit/SpriteKit.h>
-
-@interface GameScene : SKScene
+@interface GameScene : SKScene{
+    int mode;
+    NSDictionary* chMon;//chinese mon
+    NSMutableArray* cleanGif;
+    SKLabelNode* note;
+    SKSpriteNode* scr;
+}
 
 @end

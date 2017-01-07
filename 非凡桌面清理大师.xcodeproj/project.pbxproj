@@ -10,11 +10,49 @@
 		B7401A311DFEBF4200585650 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B7401A301DFEBF4200585650 /* AppDelegate.m */; };
 		B7401A341DFEBF4200585650 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B7401A331DFEBF4200585650 /* main.m */; };
 		B7401A361DFEBF4200585650 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = B7401A351DFEBF4200585650 /* GameScene.sks */; };
-		B7401A381DFEBF4200585650 /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = B7401A371DFEBF4200585650 /* Actions.sks */; };
 		B7401A3B1DFEBF4200585650 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = B7401A3A1DFEBF4200585650 /* GameScene.m */; };
 		B7401A3E1DFEBF4200585650 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B7401A3D1DFEBF4200585650 /* ViewController.m */; };
 		B7401A401DFEBF4200585650 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B7401A3F1DFEBF4200585650 /* Assets.xcassets */; };
 		B7401A431DFEBF4200585650 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B7401A411DFEBF4200585650 /* Main.storyboard */; };
+		B7B56D801E00527A001C8D68 /* 裆里有腊肠.mov in Resources */ = {isa = PBXBuildFile; fileRef = B7B56D7B1E00527A001C8D68 /* 裆里有腊肠.mov */; };
+		B7B56D811E00527A001C8D68 /* 肛到我听到为止.mov in Resources */ = {isa = PBXBuildFile; fileRef = B7B56D7C1E00527A001C8D68 /* 肛到我听到为止.mov */; };
+		B7B56D821E00527A001C8D68 /* 港中意玩.mov in Resources */ = {isa = PBXBuildFile; fileRef = B7B56D7D1E00527A001C8D68 /* 港中意玩.mov */; };
+		B7B56D831E00527A001C8D68 /* 嗨.mov in Resources */ = {isa = PBXBuildFile; fileRef = B7B56D7E1E00527A001C8D68 /* 嗨.mov */; };
+		B7B56D841E00527A001C8D68 /* 我要艹你啊.mov in Resources */ = {isa = PBXBuildFile; fileRef = B7B56D7F1E00527A001C8D68 /* 我要艹你啊.mov */; };
+		B7C200FB1E02CE1B00B5093A /* devolop.txt in Resources */ = {isa = PBXBuildFile; fileRef = B7C200F61E02CE1B00B5093A /* devolop.txt */; };
+		B7C200FC1E02CE1B00B5093A /* document.txt in Resources */ = {isa = PBXBuildFile; fileRef = B7C200F71E02CE1B00B5093A /* document.txt */; };
+		B7C200FD1E02CE1B00B5093A /* image.txt in Resources */ = {isa = PBXBuildFile; fileRef = B7C200F81E02CE1B00B5093A /* image.txt */; };
+		B7C200FE1E02CE1B00B5093A /* music.txt in Resources */ = {isa = PBXBuildFile; fileRef = B7C200F91E02CE1B00B5093A /* music.txt */; };
+		B7C200FF1E02CE1B00B5093A /* video.txt in Resources */ = {isa = PBXBuildFile; fileRef = B7C200FA1E02CE1B00B5093A /* video.txt */; };
+		B7C201011E03794E00B5093A /* cleanIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = B7C201001E03794E00B5093A /* cleanIcon.png */; };
+		B7C201211E037C9B00B5093A /* 梁非凡10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2010D1E037C9B00B5093A /* 梁非凡10.jpg */; };
+		B7C201221E037C9B00B5093A /* 梁非凡11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2010E1E037C9B00B5093A /* 梁非凡11.jpg */; };
+		B7C201231E037C9B00B5093A /* 梁非凡12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2010F1E037C9B00B5093A /* 梁非凡12.jpg */; };
+		B7C201241E037C9B00B5093A /* 梁非凡13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201101E037C9B00B5093A /* 梁非凡13.jpg */; };
+		B7C201251E037C9B00B5093A /* 梁非凡14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201111E037C9B00B5093A /* 梁非凡14.jpg */; };
+		B7C201261E037C9B00B5093A /* 梁非凡15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201121E037C9B00B5093A /* 梁非凡15.jpg */; };
+		B7C201271E037C9B00B5093A /* 梁非凡16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201131E037C9B00B5093A /* 梁非凡16.jpg */; };
+		B7C201281E037C9B00B5093A /* 梁非凡17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201141E037C9B00B5093A /* 梁非凡17.jpg */; };
+		B7C201291E037C9B00B5093A /* 梁非凡18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201151E037C9B00B5093A /* 梁非凡18.jpg */; };
+		B7C2012A1E037C9B00B5093A /* 梁非凡19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201161E037C9B00B5093A /* 梁非凡19.jpg */; };
+		B7C201351E037E4A00B5093A /* 梁非凡0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2012B1E037E4A00B5093A /* 梁非凡0.jpg */; };
+		B7C201361E037E4A00B5093A /* 梁非凡1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2012C1E037E4A00B5093A /* 梁非凡1.jpg */; };
+		B7C201371E037E4A00B5093A /* 梁非凡2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2012D1E037E4A00B5093A /* 梁非凡2.jpg */; };
+		B7C201381E037E4A00B5093A /* 梁非凡3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2012E1E037E4A00B5093A /* 梁非凡3.jpg */; };
+		B7C201391E037E4A00B5093A /* 梁非凡4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2012F1E037E4A00B5093A /* 梁非凡4.jpg */; };
+		B7C2013A1E037E4A00B5093A /* 梁非凡5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201301E037E4A00B5093A /* 梁非凡5.jpg */; };
+		B7C2013B1E037E4A00B5093A /* 梁非凡6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201311E037E4A00B5093A /* 梁非凡6.jpg */; };
+		B7C2013C1E037E4A00B5093A /* 梁非凡7.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201321E037E4A00B5093A /* 梁非凡7.jpg */; };
+		B7C2013D1E037E4A00B5093A /* 梁非凡8.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201331E037E4A00B5093A /* 梁非凡8.jpg */; };
+		B7C2013E1E037E4A00B5093A /* 梁非凡9.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201341E037E4A00B5093A /* 梁非凡9.jpg */; };
+		B7C201431E03DD7700B5093A /* 梁非凡22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2013F1E03DD7700B5093A /* 梁非凡22.jpg */; };
+		B7C201441E03DD7700B5093A /* 梁非凡23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201401E03DD7700B5093A /* 梁非凡23.jpg */; };
+		B7C201451E03DD7700B5093A /* 梁非凡24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201411E03DD7700B5093A /* 梁非凡24.jpg */; };
+		B7C201461E03DD7700B5093A /* 梁非凡25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201421E03DD7700B5093A /* 梁非凡25.jpg */; };
+		B7C201481E0406C500B5093A /* yashi.png in Resources */ = {isa = PBXBuildFile; fileRef = B7C201471E0406C500B5093A /* yashi.png */; };
+		B7C2014B1E0408A600B5093A /* 梁非凡20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C201491E0408A600B5093A /* 梁非凡20.jpg */; };
+		B7C2014C1E0408A600B5093A /* 梁非凡21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B7C2014A1E0408A600B5093A /* 梁非凡21.jpg */; };
+		B7C2014E1E040CF800B5093A /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = B7C2014D1E040CF800B5093A /* background.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +61,6 @@
 		B7401A301DFEBF4200585650 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		B7401A331DFEBF4200585650 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B7401A351DFEBF4200585650 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		B7401A371DFEBF4200585650 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		B7401A391DFEBF4200585650 /* GameScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
 		B7401A3A1DFEBF4200585650 /* GameScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
 		B7401A3C1DFEBF4200585650 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -31,6 +68,45 @@
 		B7401A3F1DFEBF4200585650 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B7401A421DFEBF4200585650 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B7401A441DFEBF4200585650 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7B56D7B1E00527A001C8D68 /* 裆里有腊肠.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "裆里有腊肠.mov"; sourceTree = "<group>"; };
+		B7B56D7C1E00527A001C8D68 /* 肛到我听到为止.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "肛到我听到为止.mov"; sourceTree = "<group>"; };
+		B7B56D7D1E00527A001C8D68 /* 港中意玩.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "港中意玩.mov"; sourceTree = "<group>"; };
+		B7B56D7E1E00527A001C8D68 /* 嗨.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "嗨.mov"; sourceTree = "<group>"; };
+		B7B56D7F1E00527A001C8D68 /* 我要艹你啊.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "我要艹你啊.mov"; sourceTree = "<group>"; };
+		B7C200F61E02CE1B00B5093A /* devolop.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = devolop.txt; sourceTree = "<group>"; };
+		B7C200F71E02CE1B00B5093A /* document.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = document.txt; sourceTree = "<group>"; };
+		B7C200F81E02CE1B00B5093A /* image.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = image.txt; sourceTree = "<group>"; };
+		B7C200F91E02CE1B00B5093A /* music.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = music.txt; sourceTree = "<group>"; };
+		B7C200FA1E02CE1B00B5093A /* video.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = video.txt; sourceTree = "<group>"; };
+		B7C201001E03794E00B5093A /* cleanIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cleanIcon.png; sourceTree = "<group>"; };
+		B7C2010D1E037C9B00B5093A /* 梁非凡10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡10.jpg"; sourceTree = "<group>"; };
+		B7C2010E1E037C9B00B5093A /* 梁非凡11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡11.jpg"; sourceTree = "<group>"; };
+		B7C2010F1E037C9B00B5093A /* 梁非凡12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡12.jpg"; sourceTree = "<group>"; };
+		B7C201101E037C9B00B5093A /* 梁非凡13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡13.jpg"; sourceTree = "<group>"; };
+		B7C201111E037C9B00B5093A /* 梁非凡14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡14.jpg"; sourceTree = "<group>"; };
+		B7C201121E037C9B00B5093A /* 梁非凡15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡15.jpg"; sourceTree = "<group>"; };
+		B7C201131E037C9B00B5093A /* 梁非凡16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡16.jpg"; sourceTree = "<group>"; };
+		B7C201141E037C9B00B5093A /* 梁非凡17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡17.jpg"; sourceTree = "<group>"; };
+		B7C201151E037C9B00B5093A /* 梁非凡18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡18.jpg"; sourceTree = "<group>"; };
+		B7C201161E037C9B00B5093A /* 梁非凡19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡19.jpg"; sourceTree = "<group>"; };
+		B7C2012B1E037E4A00B5093A /* 梁非凡0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡0.jpg"; sourceTree = "<group>"; };
+		B7C2012C1E037E4A00B5093A /* 梁非凡1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡1.jpg"; sourceTree = "<group>"; };
+		B7C2012D1E037E4A00B5093A /* 梁非凡2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡2.jpg"; sourceTree = "<group>"; };
+		B7C2012E1E037E4A00B5093A /* 梁非凡3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡3.jpg"; sourceTree = "<group>"; };
+		B7C2012F1E037E4A00B5093A /* 梁非凡4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡4.jpg"; sourceTree = "<group>"; };
+		B7C201301E037E4A00B5093A /* 梁非凡5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡5.jpg"; sourceTree = "<group>"; };
+		B7C201311E037E4A00B5093A /* 梁非凡6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡6.jpg"; sourceTree = "<group>"; };
+		B7C201321E037E4A00B5093A /* 梁非凡7.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡7.jpg"; sourceTree = "<group>"; };
+		B7C201331E037E4A00B5093A /* 梁非凡8.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡8.jpg"; sourceTree = "<group>"; };
+		B7C201341E037E4A00B5093A /* 梁非凡9.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡9.jpg"; sourceTree = "<group>"; };
+		B7C2013F1E03DD7700B5093A /* 梁非凡22.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡22.jpg"; sourceTree = "<group>"; };
+		B7C201401E03DD7700B5093A /* 梁非凡23.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡23.jpg"; sourceTree = "<group>"; };
+		B7C201411E03DD7700B5093A /* 梁非凡24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡24.jpg"; sourceTree = "<group>"; };
+		B7C201421E03DD7700B5093A /* 梁非凡25.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡25.jpg"; sourceTree = "<group>"; };
+		B7C201471E0406C500B5093A /* yashi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yashi.png; sourceTree = "<group>"; };
+		B7C201491E0408A600B5093A /* 梁非凡20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡20.jpg"; sourceTree = "<group>"; };
+		B7C2014A1E0408A600B5093A /* 梁非凡21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "梁非凡21.jpg"; sourceTree = "<group>"; };
+		B7C2014D1E040CF800B5093A /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = background.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,14 +139,19 @@
 		B7401A2E1DFEBF4200585650 /* 非凡桌面清理大师 */ = {
 			isa = PBXGroup;
 			children = (
+				B7C201021E037C6D00B5093A /* mov */,
+				B7C200F51E02CDF000B5093A /* txt */,
+				B7B56D7A1E00525D001C8D68 /* sounds */,
 				B7401A2F1DFEBF4200585650 /* AppDelegate.h */,
 				B7401A301DFEBF4200585650 /* AppDelegate.m */,
 				B7401A351DFEBF4200585650 /* GameScene.sks */,
-				B7401A371DFEBF4200585650 /* Actions.sks */,
 				B7401A391DFEBF4200585650 /* GameScene.h */,
 				B7401A3A1DFEBF4200585650 /* GameScene.m */,
 				B7401A3C1DFEBF4200585650 /* ViewController.h */,
 				B7401A3D1DFEBF4200585650 /* ViewController.m */,
+				B7C2014D1E040CF800B5093A /* background.png */,
+				B7C201001E03794E00B5093A /* cleanIcon.png */,
+				B7C201471E0406C500B5093A /* yashi.png */,
 				B7401A3F1DFEBF4200585650 /* Assets.xcassets */,
 				B7401A411DFEBF4200585650 /* Main.storyboard */,
 				B7401A441DFEBF4200585650 /* Info.plist */,
@@ -85,6 +166,63 @@
 				B7401A331DFEBF4200585650 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B7B56D7A1E00525D001C8D68 /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				B7B56D7B1E00527A001C8D68 /* 裆里有腊肠.mov */,
+				B7B56D7C1E00527A001C8D68 /* 肛到我听到为止.mov */,
+				B7B56D7D1E00527A001C8D68 /* 港中意玩.mov */,
+				B7B56D7E1E00527A001C8D68 /* 嗨.mov */,
+				B7B56D7F1E00527A001C8D68 /* 我要艹你啊.mov */,
+			);
+			name = sounds;
+			sourceTree = "<group>";
+		};
+		B7C200F51E02CDF000B5093A /* txt */ = {
+			isa = PBXGroup;
+			children = (
+				B7C200F71E02CE1B00B5093A /* document.txt */,
+				B7C200F61E02CE1B00B5093A /* devolop.txt */,
+				B7C200F81E02CE1B00B5093A /* image.txt */,
+				B7C200F91E02CE1B00B5093A /* music.txt */,
+				B7C200FA1E02CE1B00B5093A /* video.txt */,
+			);
+			name = txt;
+			sourceTree = "<group>";
+		};
+		B7C201021E037C6D00B5093A /* mov */ = {
+			isa = PBXGroup;
+			children = (
+				B7C2013F1E03DD7700B5093A /* 梁非凡22.jpg */,
+				B7C201491E0408A600B5093A /* 梁非凡20.jpg */,
+				B7C2014A1E0408A600B5093A /* 梁非凡21.jpg */,
+				B7C201401E03DD7700B5093A /* 梁非凡23.jpg */,
+				B7C201411E03DD7700B5093A /* 梁非凡24.jpg */,
+				B7C201421E03DD7700B5093A /* 梁非凡25.jpg */,
+				B7C2012B1E037E4A00B5093A /* 梁非凡0.jpg */,
+				B7C2012C1E037E4A00B5093A /* 梁非凡1.jpg */,
+				B7C2012D1E037E4A00B5093A /* 梁非凡2.jpg */,
+				B7C2012E1E037E4A00B5093A /* 梁非凡3.jpg */,
+				B7C2012F1E037E4A00B5093A /* 梁非凡4.jpg */,
+				B7C201301E037E4A00B5093A /* 梁非凡5.jpg */,
+				B7C201311E037E4A00B5093A /* 梁非凡6.jpg */,
+				B7C201321E037E4A00B5093A /* 梁非凡7.jpg */,
+				B7C201331E037E4A00B5093A /* 梁非凡8.jpg */,
+				B7C201341E037E4A00B5093A /* 梁非凡9.jpg */,
+				B7C2010D1E037C9B00B5093A /* 梁非凡10.jpg */,
+				B7C2010E1E037C9B00B5093A /* 梁非凡11.jpg */,
+				B7C2010F1E037C9B00B5093A /* 梁非凡12.jpg */,
+				B7C201101E037C9B00B5093A /* 梁非凡13.jpg */,
+				B7C201111E037C9B00B5093A /* 梁非凡14.jpg */,
+				B7C201121E037C9B00B5093A /* 梁非凡15.jpg */,
+				B7C201131E037C9B00B5093A /* 梁非凡16.jpg */,
+				B7C201141E037C9B00B5093A /* 梁非凡17.jpg */,
+				B7C201151E037C9B00B5093A /* 梁非凡18.jpg */,
+				B7C201161E037C9B00B5093A /* 梁非凡19.jpg */,
+			);
+			name = mov;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -146,10 +284,48 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B7C201281E037C9B00B5093A /* 梁非凡17.jpg in Resources */,
+				B7C201461E03DD7700B5093A /* 梁非凡25.jpg in Resources */,
+				B7C201431E03DD7700B5093A /* 梁非凡22.jpg in Resources */,
+				B7C201481E0406C500B5093A /* yashi.png in Resources */,
+				B7C2013D1E037E4A00B5093A /* 梁非凡8.jpg in Resources */,
+				B7C201371E037E4A00B5093A /* 梁非凡2.jpg in Resources */,
+				B7B56D821E00527A001C8D68 /* 港中意玩.mov in Resources */,
+				B7C2014C1E0408A600B5093A /* 梁非凡21.jpg in Resources */,
+				B7C2013E1E037E4A00B5093A /* 梁非凡9.jpg in Resources */,
+				B7C201291E037C9B00B5093A /* 梁非凡18.jpg in Resources */,
+				B7C201441E03DD7700B5093A /* 梁非凡23.jpg in Resources */,
+				B7C200FF1E02CE1B00B5093A /* video.txt in Resources */,
+				B7C200FD1E02CE1B00B5093A /* image.txt in Resources */,
+				B7C201271E037C9B00B5093A /* 梁非凡16.jpg in Resources */,
+				B7C201221E037C9B00B5093A /* 梁非凡11.jpg in Resources */,
+				B7C201391E037E4A00B5093A /* 梁非凡4.jpg in Resources */,
+				B7C2012A1E037C9B00B5093A /* 梁非凡19.jpg in Resources */,
 				B7401A361DFEBF4200585650 /* GameScene.sks in Resources */,
 				B7401A401DFEBF4200585650 /* Assets.xcassets in Resources */,
-				B7401A381DFEBF4200585650 /* Actions.sks in Resources */,
+				B7C201251E037C9B00B5093A /* 梁非凡14.jpg in Resources */,
+				B7C200FB1E02CE1B00B5093A /* devolop.txt in Resources */,
+				B7C2013C1E037E4A00B5093A /* 梁非凡7.jpg in Resources */,
+				B7C201241E037C9B00B5093A /* 梁非凡13.jpg in Resources */,
+				B7B56D811E00527A001C8D68 /* 肛到我听到为止.mov in Resources */,
+				B7C201261E037C9B00B5093A /* 梁非凡15.jpg in Resources */,
+				B7B56D831E00527A001C8D68 /* 嗨.mov in Resources */,
+				B7C201361E037E4A00B5093A /* 梁非凡1.jpg in Resources */,
+				B7C2014B1E0408A600B5093A /* 梁非凡20.jpg in Resources */,
+				B7C201211E037C9B00B5093A /* 梁非凡10.jpg in Resources */,
+				B7B56D841E00527A001C8D68 /* 我要艹你啊.mov in Resources */,
+				B7C200FE1E02CE1B00B5093A /* music.txt in Resources */,
+				B7B56D801E00527A001C8D68 /* 裆里有腊肠.mov in Resources */,
 				B7401A431DFEBF4200585650 /* Main.storyboard in Resources */,
+				B7C201011E03794E00B5093A /* cleanIcon.png in Resources */,
+				B7C201231E037C9B00B5093A /* 梁非凡12.jpg in Resources */,
+				B7C2013B1E037E4A00B5093A /* 梁非凡6.jpg in Resources */,
+				B7C201351E037E4A00B5093A /* 梁非凡0.jpg in Resources */,
+				B7C2014E1E040CF800B5093A /* background.png in Resources */,
+				B7C201381E037E4A00B5093A /* 梁非凡3.jpg in Resources */,
+				B7C2013A1E037E4A00B5093A /* 梁非凡5.jpg in Resources */,
+				B7C200FC1E02CE1B00B5093A /* document.txt in Resources */,
+				B7C201451E03DD7700B5093A /* 梁非凡24.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,6 +489,7 @@
 				B7401A491DFEBF4200585650 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
